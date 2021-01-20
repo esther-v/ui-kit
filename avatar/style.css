@@ -1,0 +1,29 @@
+body {
+    background-color: orange;;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+
+.taller {
+    width: 150px;
+    height: 150px;
+    
+}
+
+img {
+    margin-right: 30px;
+}
+
+.square {
+    border-radius: 0%;
+}
+
+.border {
+    border: 2px ridge white;
+    box-shadow: 5px rgba(175, 175, 180, 0.5);
+}
