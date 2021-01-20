@@ -1,0 +1,26 @@
+
+
+.bouton {
+    width: 210px;
+    height: 56px;
+    margin-left: 20px;
+    font-size: 23px;
+}
+
+.b1 {
+    border-radius: 47px;
+    text-align: center;
+}
+
+.b2 {
+    background-color: rgb(38, 189, 38);
+    color: white;
+    border-radius: 5px;
+}
+
+.b3 {
+    background-color: #2d5aec;
+    color: white;
+    border-radius: 5px;
+}
+
