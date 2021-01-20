@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+body {
+    color: rgba(175, 171, 171, 0.897);
+    font-family: sans-serif;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+    margin-left: 15px;
+    border-radius: 50%;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.avatar {
+    justify-content: flex-start;
+}
+
+.box {
+    border: 1px solid rgb(201, 201, 201);
+    margin: 10px 15px 15px;
+    padding: 10px;
+}
+
+article {
+    margin-left: 10px;
+}
+.actions {
+    margin-right: 15px;
+    gap: 15px;
+}
+
+.descriptif {
+    color: rgb(95, 93, 93);
+}
+
+.date {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
