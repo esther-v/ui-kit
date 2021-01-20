@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    align-self: center;
+    height: 600px;
+    width: 600px;
+    background: url("image.jpg") no-repeat center / cover;
+    
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-family: sans-serif;
+    padding: 40px;
+}
+
+.wagon {
+    font-size: 28px;
+}
+
+.change {
+    color: rgb(192, 192, 192);
+}
+
+input {
+    background: rgb(43, 167, 43);
+    color: white;
+    height: 35px;
+    border-radius: 5px;
+}
