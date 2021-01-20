@@ -1,0 +1,11 @@
+.breakfast {
+    height: 280px;
+    background: url("petitdej.jpg") no-repeat center / cover rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
