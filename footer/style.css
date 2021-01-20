@@ -1,0 +1,36 @@
+footer {
+    height: 95px;
+    background-color: #ebe8e89c;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.fab {
+    color: rgb(173, 173, 173);
+    margin-left: 10px;
+}
+
+.fab:hover {
+    color: black;
+}
+
+.fa-heart {
+    color: red;
+}
+
+.icons {
+    margin-left: 45px;
+}
+
+p {
+    color: rgb(173, 173, 173);
+    margin-right: 45px;
+}
