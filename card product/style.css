@@ -1,0 +1,25 @@
+
+.flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.box {
+    box-shadow: 0 5px 20px rgba(175, 175, 180, 0.5);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+article {
+    padding: 30px;
+    font-family: sans-serif;
+}
+
+p {
+    color: grey;
+}
+
