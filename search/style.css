@@ -1,14 +1,28 @@
-#maRecherche {
-    width: 1000px;
-    height: 35px;
-    border: 1px solid rgb(4, 168, 4);
-    border-radius: 5px;
+.maRecherche {  
+    border: none; 
+    width: 100%;
 }
 
 button {
-    background-color: rgb(4, 168, 4);
+    background-color: rgb(12, 216, 114);
     color: white;
     height: 35px;
     border: none;
     border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
+div {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    height: 35px;
+    border: 1px solid rgb(4, 168, 4);
+    border-radius: 5px;
+    padding: 4px;
+}
+
+
+   
